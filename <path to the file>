@@ -1,1 +1,6 @@
-<content of the file>
+{
+  "scripts": {
+    "start": "node server.js",
+    "build": "your-build-step-if-any"
+  }
+}<content of the file>
